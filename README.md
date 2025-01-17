@@ -1,1 +1,1 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=1024&imh=541&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true?raw=true" alt="pixel art" width="70%"/> <br>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536944117/AD8660D75A18C0253FD4237689978206AB1B83C3/?imw=1024&imh=541&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true?raw=true" alt="pixel art" width="100%"/> <br>
